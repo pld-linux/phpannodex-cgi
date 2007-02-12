@@ -1,5 +1,5 @@
 Summary:	Support for Annodex.net media as CGI handler
-Summary(pl):	Obs≥uga mediÛw Annodex.net jako skrypt obs≥uguj±cy CGI
+Summary(pl.UTF-8):   Obs≈Çuga medi√≥w Annodex.net jako skrypt obs≈ÇugujƒÖcy CGI
 Name:		phpannodex-cgi
 Version:	0.4
 Release:	1
@@ -33,15 +33,15 @@ provides the following features:
    type text/x-cmml over application/x-annodex.
 
 
-%description -l pl
-phpannodex-cgi to skrypt CGI obs≥uguj±cy typ application/x-annodex. Ma
-nastÍpuj±ce moøliwo∂ci:
- - dynamiczne generowanie mediÛw Annodex z plikÛw CMML
- - obs≥ugÍ czasowych offsetÛw zapytaÒ, takich jak
+%description -l pl.UTF-8
+phpannodex-cgi to skrypt CGI obs≈ÇugujƒÖcy typ application/x-annodex. Ma
+nastƒôpujƒÖce mo≈ºliwo≈õci:
+ - dynamiczne generowanie medi√≥w Annodex z plik√≥w CMML
+ - obs≈Çugƒô czasowych offset√≥w zapyta≈Ñ, takich jak
         http://media.example.com/fish.anx?t=npt:01:20.8
    albo
         http://media.example.com/fish.anx?id=Preparation
- - dynamiczne odtwarzanie podsumowaÒ CMML, je∂li nag≥Ûwek Accept:
+ - dynamiczne odtwarzanie podsumowa≈Ñ CMML, je≈õli nag≈Ç√≥wek Accept:
    preferuje typ text/x-cmml ponad application/x-annodex
 
 %prep
