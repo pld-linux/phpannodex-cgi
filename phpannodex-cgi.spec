@@ -1,5 +1,5 @@
 Summary:	Support for Annodex.net media as CGI handler
-Summary(pl.UTF-8):   Obsługa mediów Annodex.net jako skrypt obsługujący CGI
+Summary(pl.UTF-8):	Obsługa mediów Annodex.net jako skrypt obsługujący CGI
 Name:		phpannodex-cgi
 Version:	0.4
 Release:	1
